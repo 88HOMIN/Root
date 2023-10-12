@@ -1,7 +1,7 @@
 # Root Project [안드로이드 기본 프로젝트 구조 v1 23.10.13]
 The base structure of a project with core libraries in Android.
 
-
+---------------------------------
 
 기본 아키텍쳐 개념 설정
 
@@ -31,6 +31,9 @@ Logging 라이브러리 선택 및 적용 방법
 
 Firebase 연동
 
+
+
+---------------------------------
 
 - 기술 선택
 - 기술 설명
