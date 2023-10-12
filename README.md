@@ -13,7 +13,7 @@ DI 라이브러리 선택 및 적용
 
 LiveData 적용
 
-Corotine 적용
+Coroutine 적용
 
 Retrofit 적용
 
