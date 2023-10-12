@@ -1,4 +1,4 @@
-# Root Project [안드로이드 기본 프로젝트 구조 v1 23.10.13]
+# Root Project [ 안드로이드 기본 프로젝트 구조 v1 ] ( 23.10.13 )
 The base structure of a project with core libraries in Android.
 
 ---------------------------------
